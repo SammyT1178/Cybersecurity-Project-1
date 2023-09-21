@@ -2,7 +2,7 @@
 
 This is a JWKS server using a RESTful HTTP API running on C++. The server runs locally (127.0.0.1:8080). The server generates an RSA key pair, generates a JWT with a unique Key ID, and JWKS list of public keys. 
 
-Original code provided in newServer.cpp.
+Original code provided in `newServer.cpp`.
 
 To run the program, the provided compiled file `server.exe` can be run. The supplied black box test client `proj1_checker.exe` is also included to test the server. All tests were run in two seperate Terminal instances using `./server.exe` and `./proj1_checker.exe` commands respectively.
 

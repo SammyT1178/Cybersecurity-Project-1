@@ -27,3 +27,4 @@ CPP-HTTPLIB: https://github.com/yhirose/cpp-httplib
 
 JWT++: https://github.com/Thalhammer/jwt-cpp
 
+Base64URL Encoding Algorithm: https://gist.github.com/darelf/0f96e1d313e1d0da5051e1a6eff8d329
